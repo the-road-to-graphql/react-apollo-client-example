@@ -1,6 +1,6 @@
 # react-apollo-client-example
 
-A minimal React application using Apollo Client with GitHub's GraphQL API. On the side, React's local state is still used for local data whereas Apollo Client with its queries and mutations is used for remote data.
+A minimal React application using Apollo Client with GitHub's GraphQL API. On the side, React's local state is still used for local data whereas Apollo Client with its queries and mutations is used for remote data. [Read more about it here](https://www.robinwieruch.de/react-apollo-link-state-tutorial) without including the Apollo Link State sections.
 
 ## Installation
 
