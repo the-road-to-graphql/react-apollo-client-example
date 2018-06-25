@@ -1,5 +1,7 @@
 # react-apollo-client-example
 
+[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+
 A minimal React application using Apollo Client with GitHub's GraphQL API. On the side, React's local state is still used for local data whereas Apollo Client with its queries and mutations is used for remote data. [Read more about it here.](https://www.robinwieruch.de/react-apollo-client-example)
 
 ## Installation
