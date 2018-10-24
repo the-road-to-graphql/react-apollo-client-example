@@ -1,6 +1,6 @@
 # react-apollo-client-example
 
-[![Build Status](https://travis-ci.org/the-road-to-graphql/react-apollo-client-example.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-apollo-client-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Build Status](https://travis-ci.org/the-road-to-graphql/react-apollo-client-example.svg?branch=master)](https://travis-ci.org/the-road-to-graphql/react-apollo-client-example) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-graphql/react-apollo-client-example.svg)](https://greenkeeper.io/)
 
 A minimal React application using Apollo Client with GitHub's GraphQL API. On the side, React's local state is still used for local data whereas Apollo Client with its queries and mutations is used for remote data. [Read more about it here.](https://www.robinwieruch.de/react-apollo-client-example)
 
